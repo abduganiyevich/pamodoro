@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #FCE785;
+  background-image: url(../src/assets/tomato.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position-y:50px;
+  background-size: 400px;
+}

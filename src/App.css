@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  margin-top: 200px;
+
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif; /* Tanlangan shrift va rezerv shirftni qo'shing */
+  font-size: 4rem;
+  color:white;
+  text-shadow: 1px 2px 3px gray;
+  text-align: center;
+}
+
+.timer{
+  font-family: 'Roboto', sans-serif; /* Tanlangan shrift va rezerv shirftni qo'shing */
+  font-size: 5rem;
+  font-weight: 900;
+  color:white;
+  text-shadow: 1px 2px 3px gray;
+  text-align: center;
+}
+
+button{
+  width: 150px;
+  cursor: pointer;
+  border: none;
+  margin-top: 50px;
+  padding:10px 15px;
+  font-weight: 900;
+}
+
+.start{
+  background-color: rgb(47, 255, 137);
+  color: white;
+  border-radius: 8px;
+}
+.reset{
+  background-color: rgb(102, 46, 68);
+  color: white;
+  border-radius: 8px;
+  margin-left: 10px;
+}
+
