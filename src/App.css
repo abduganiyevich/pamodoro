@@ -5,7 +5,7 @@
 }
 
 h1 {
-  font-family: 'Roboto', sans-serif; /* Tanlangan shrift va rezerv shirftni qo'shing */
+  font-family: 'Roboto', sans-serif; 
   font-size: 4rem;
   color:white;
   text-shadow: 1px 2px 3px gray;
@@ -13,7 +13,7 @@ h1 {
 }
 
 .timer{
-  font-family: 'Roboto', sans-serif; /* Tanlangan shrift va rezerv shirftni qo'shing */
+  font-family: 'Roboto', sans-serif;
   font-size: 5rem;
   font-weight: 900;
   color:white;
